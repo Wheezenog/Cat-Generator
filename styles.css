@@ -1,0 +1,38 @@
+html{
+  cursor:url(CustomCursors/cursor!.cur), auto;
+}
+body {
+    background-color: powderblue;
+    text-align: center;
+    align-items: center;
+    margin: 8px;
+  }
+  h1 {
+    color: black;
+  }
+  button {
+    background-color: pink;
+    border: none; /* Green */
+    border-radius: 10px;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 15px;
+    margin: 8px;
+    cursor:url(CustomCursors/cursor!.cur), auto;
+  }
+  button:active{
+    background-color: palevioletred;
+    
+  }
+  img{
+    padding: 15px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 30px;
+  }
+
+
